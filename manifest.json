@@ -1,6 +1,6 @@
 {
-  "name": "Bac-tn",
-  "short_name": "BAC",
+  "name": "Calcul Bac-tn",
+  "short_name": "BAC-tn",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
